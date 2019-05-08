@@ -41,4 +41,4 @@ The findings here are observational, not the result of a formal study. So the re
 
 > Will you go to the west?
 
-To see more about this analysis, see the link to my Github available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
+To see more about this analysis, see the link to my Github available [here](https://github.com/joshuayeung/Write-A-Data-Science-Blog-Post/blob/master/Write%20a%20Data%20Science%20Blog%20Post.ipynb).
