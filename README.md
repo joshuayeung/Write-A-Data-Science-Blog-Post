@@ -28,7 +28,7 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://github.com/joshuayeung/Write-A-Data-Science-Blog-Post/blob/master/BLOG.md).
+The main findings of the code can be found at the post available [here](https://medium.com/@ychbbq/go-to-the-western-world-if-you-are-a-programmer-ef60f7d8641?sk=d7b7ebba79c47d698feab8de02be7573).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
